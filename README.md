@@ -1,2 +1,2 @@
 # Data-Pipeline
-microservices pipeline, using mysql, rabbitmq, etc.
+microservices pipeline, using mysql, redis, rabbitmq, eureka service registry,etc.
